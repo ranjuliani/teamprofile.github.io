@@ -179,7 +179,8 @@ footer container {
 }
 
 footer fa {
-  margin: 0 auto;
+  margin-right: 5 px;
+  cursor: pointer;
 }
 
 footer p {
