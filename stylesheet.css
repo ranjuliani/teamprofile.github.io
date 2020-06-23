@@ -171,6 +171,10 @@ header {
   box-shadow: none;
 }
 
+footer container {
+  margin: 0 auto;
+}
+
 footer fa {
   margin-right: 5px;
 }
@@ -182,6 +186,5 @@ footer p {
 }
 
 footer {
-  margin: 0 auto;
   padding-top: 30px;
 }
