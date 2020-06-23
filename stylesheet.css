@@ -171,13 +171,15 @@ header {
   box-shadow: none;
 }
 
-footer img {
-  width: 125px;
+footer fa {
+  margin-right: 5px;
+  float: left;
 }
 
 footer p {
   color: #b3aeb5;
   font-size: 12px;
+  text-align: center;
 }
 
 footer {
